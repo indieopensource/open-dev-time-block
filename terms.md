@@ -128,7 +128,7 @@ Others who are not parties to this agreement may enforce the terms of [Public Li
 
 ### <a id="Warranty"></a>Warranty
 
-_Developer_ guarantees that they will have all the rights needed to license work they and create and use to do [Public Licenses](#Public_Licenses). _Client_ agrees that _Developer_ may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others. If _Developer_ breaches this guarantee, _Client_ may disclose that _Developer_ did so.
+_Developer_ guarantees that they will have all the rights needed to license work they and create and use to do [Public Licenses](#Public_Licenses). _Client_ agrees that _Developer_ may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.
 
 ## <a id="Liability"></a>Liability
 
