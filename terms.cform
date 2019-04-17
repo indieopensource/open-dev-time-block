@@ -1,0 +1,151 @@
+""Developer"" and ""Client"" agree:
+
+    \Purpose\  This license fills gaps between the terms open software developers apply to their work and the terms companies expect for software they rely on.  Open software developers can sell supplementary licenses to companies on these terms to fill those gaps.
+
+    \Specifics\
+
+        \\  The cosigned ""Proposal"" referencing these terms must identify:
+
+            \\  the <Developer>
+
+            \\  whether the <Developer> is an individual or a company
+
+            \\  the <Client>
+
+            \\  the ""Fee"" for this agreement
+
+            \\  the ""Purchased Hours"" <Developer> will make available to work under this agreement
+
+            \\  the ""Deadline"" on which this agreement, and any <Unused Hours>, will expire
+
+        \\  The <Proposal> may identify:
+
+            \\  the ""Payment Method"", which by default is [Default Payment Method]
+
+            \\  the ""Work Pace"", <Full Time>, <Half Time>, or <Part Time>, which by default is <Part Time>
+
+            \\  the ""Scope"", which by default is [Default Scope]
+
+            \\  ""Working Days"", which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of <Developer's Address> typically stay closed.  The singular is ""Working Day"".
+
+            \\  ""Working Hours"", which by default are the hours of [Default Working Hours] in the time zone of <Developer's Address>
+
+    \Client's Obligations\
+
+        \Pay the Fee\  <Client> agrees to pay the entire <Fee> via the <Payment Method> within [Payment Deadline] of entering this agreement.
+
+        \Pay Extraordinary Developer Expenses\  If <Client> assigns <Developer> work that requires extraordinary equipment, licenses, or services to do, then <Client> agrees to pay their costs for <Developer> directly.  If <Client> cannot pay a cost directly, <Client> agrees to advance <Developer> the cost.
+
+        \Use the Agreed Payment Method\  <Client> agrees to make all payments under this agreement via the <Payment Method>.
+
+        \Cover Payment Method Costs\  <Client> agrees to increase the amount of each payment to <Developer> so that <Developer> receives the full amount owed, net of any costs of the <Payment Method>.
+
+        \Pay Taxes on the Fee\  <Client> agrees to pay all tax on the <Fee>, except tax <Developer> owes on income.
+
+        \Technical Representative\  <Client> agrees to appoint a ""Technical Representative"" by sending <Developer> an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current <Technical Representative> leaves or becomes unavailable.  If <Client> or any <Affiliate> has technical staff, the <Technical Representative> must be a member of the technical staff.
+
+        \Term of Client's Obligations\  {Client's Obligations} continues after this agreement ends.
+
+    \Developer's Obligations\
+
+        \Do Project Work\  <Developer> agrees to do software development services that <Client> assigns, on <Working Days>, during <Working Hours>.  In order to assign work:
+
+            \\  The work must be in <Scope>.
+
+            \\  The <Technical Representative> must send the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
+
+            \\  The <Technical Representative> must respond promptly to reasonable <Developer> requests for clarification about work to be done, while there is still <Time Left> to do the work.
+
+            \\  Any previous task must have been either completed by <Developer> or abandoned in writing by the <Technical Representative>.
+
+        \Cover Basic Expenses\  <Developer> agrees to pay for all the equipment, licenses, and services needed to do open software development generally.
+
+        \Make Up Missed Work\  If <Developer> is unable do work with remaining <Purchased Hours> before the <Deadline> because <Developer> does not work on a <Working Day> due to medical reasons or personal emergency, <Developer> agrees to do that work after the <Deadline>.
+
+        \Report Unused Hours\  <Developer> agrees to send the <Technical Representative> the number of <Unused Hours> on request, and to send the <Technical Representative> a message once all <Purchased Hours> have been worked.
+
+        \Track Time\  <Developer> agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
+
+        \Term of Developer's Obligations\  The following <Developer> obligations continue after this agreement ends: {Make Up Missed Work}
+
+    \Term\  This agreement starts when <Developer> receives full payment of the <Fee>, and continues until the <Deadline>.
+
+    \Intellectual Property\
+
+        \No Assignment\  This agreement does not assign any <Intellectual Property Right>, and no work under this agreement is "work made for hire" under copyright or other law.
+
+        \Public Licenses\  <Developer> licenses work that they create doing work under this agreement to the public at large, including <Client>.  The license terms for each separately licensable work are as follows:
+
+            \\  If the terms of a <Public License>, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+
+            \\  Otherwise, if the work is made up of changes or additions to existing software made available under a standardized <Public License>, the terms are those of that <Public License>.
+
+            \\  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+
+        \Separate Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about standardized terms.
+
+        \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce the terms of {Public Licenses}.
+
+        \Warranty\  <Developer> guarantees that they will have all the rights needed to license work they and create and use to do {Public Licenses}.  <Client> agrees that <Developer> may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.  If <Developer> breaches this guarantee, <Client> may disclose that <Developer> did so.
+
+    \Liability\
+
+        \Only Express Warranties!!  With the exception of <Developer>'s obligations in {Developer's Obligations}, <Developer> provides all work under this agreement as is, without any warranty.
+
+        \Limited Damages!!
+
+            \Damages Limit!!  Subject to {Damages Limit Exceptions}, <Developer>'s total liability for breach of this agreement will not exceed the <Fee> that <Client> paid <Developer> under this agreement.  This limit applies even if <Developer> knows that <Client> may suffer damages, and even if <Client> never paid the <Fee>.
+
+            \Damages Limit Exceptions\  {Limited Damages} does not limit damages for breach of:
+
+                \\  {Client's Obligations}
+
+    \General Contract Terms\
+
+        \Governing Law\  The law of the jurisdiction of <Developer's Address> will govern this agreement.
+
+        \No CISG\  The United Nations Convention on Contracts for the International Sale of Goods will not apply to this agreement.
+
+        \No UCITA\  As far as the law allows, the Uniform Computer Information Transactions Act will not apply to this agreement.
+
+        \Whole Agreement\  Both sides intend the <Proposal> and these terms as the final, complete, and only expression of their terms about <Developer> open software development work.
+
+        \Enforcement\  With the sole exception of {Enforcement of Public Licenses}, only <Developer> and <Client> may enforce this agreement.
+
+        \Assignment\  Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management.  Otherwise, each side needs the other side's prior, written permission to assign any right or license under this agreement. Attempts to assign against the terms of this agreement will have no legal effect.
+
+        \Lawsuits\
+
+            \Lawsuit\  ""Lawsuit"" means a lawsuit brought by one side against the other, related to this agreement.
+
+            \Courts\  ""Developer's Local Courts"" means the national and any national-subdivision courts with jurisdiction at <Developer's Address>.
+
+            \Forum\  Both sides agree to bring any <Lawsuit> in <Developer's Local Courts>.
+
+            \Inconvenient Forum Waiver\  Both sides waive any objection to hearing any <Lawsuit> in <Developer's Local Courts>.
+
+            \Exclusive Jurisdiction\  Both sides consent to the exclusive jurisdiction of <Developer's Local Courts>.  Both sides may enforce judgments from <Developer's Local Courts> in other jurisdictions.
+
+    \Definitions\
+
+        \\  ""Affiliate"" means a legal entity that has <Control> over, is under the <Control> of, or is under common <Control> with another legal entity.
+
+        \\  ""Control"" means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract.  <Control> can be direct or indirect.
+
+        \\  ""Developer's Address"" means the address <Developer> gives along with their signature to the <Proposal>.
+
+        \\  ""Full Time"" means eight hours per <Working Day>.
+
+        \\  ""Half Time"" means four hours per <Working Day>.
+
+        \\  ""Intellectual Property Right"" means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+
+        \\  ""Part Time"" means two hours per <Working Day>.
+
+        \\  ""Public License"" means a license to the public at large, or to everyone who receives a copy of the licensed work.
+
+        \\  ""Remaining Working Days"" means the number of <Working Days> left before the <Deadline>.  For example, if seven calendar days remain before the <Deadline>, five of which are <Working Days>, there are five <Remaining Working Days>.
+
+        \\  ""Time Left"" means the number of <Remaining Working Days> multiplied by the <Work Pace>.  For example, if there are five <Remaining Working Days> and the <Work Pace> is <Half Time>, then there are twenty <Working Hours> of <Time Left>.
+
+        \\  ""Unused Hours"" means the <Purchased Hours> minus the time <Developer> has worked under this agreement to date.

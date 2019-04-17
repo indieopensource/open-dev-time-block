@@ -1,0 +1,23 @@
+[
+  {
+    "header": "The parties are signing this proposal on the dates by their signatures.",
+    "term": "Developer",
+    "information": [
+      "date",
+      "email",
+      "address"
+    ]
+  },
+  {
+    "header": "The parties are signing this proposal on the dates by their signatures.",
+    "term": "Client",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "date",
+      "email",
+      "address"
+    ]
+  }
+]

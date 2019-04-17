@@ -1,0 +1,7 @@
+{
+  "Payment Deadline": "seven calendar days",
+  "Default Payment Method": "bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash",
+  "Default Scope": "open software projects that Developer has contributed to",
+  "Default Working Hours": "1000 to 1800",
+  "minimize": "diffs"
+}
