@@ -38,7 +38,7 @@ _Client_ agrees to pay the entire _Fee_ via the _Payment Method_ within seven ca
 
 ### <a id="Pay_Extraordinary_Developer_Expenses"></a>Pay Extraordinary Developer Expenses
 
-If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services to do, then _Client_ agrees to pay their costs for _Developer_ directly. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost.
+If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services to do, then _Client_ agrees to pay the costs for _Developer_ directly. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
