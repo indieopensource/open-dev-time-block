@@ -172,7 +172,7 @@ As far as the law allows, the Uniform Computer Information Transactions Act will
 
 ### <a id="Whole_Agreement"></a>Whole Agreement
 
-Both sides intend the _Proposal_ and these terms as the final, complete, and only expression of their terms about _Developer_ open software development work.
+Both sides intend the _Proposal_ and these terms as the final, complete, and only expression of their terms about _Developer_ open software development work. However, these terms do not replace or preclude any nondisclosure agreement.
 
 ### <a id="Enforcement"></a>Enforcement
 
