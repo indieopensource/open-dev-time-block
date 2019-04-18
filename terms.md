@@ -152,9 +152,7 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s 
 
 #### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 
-[Limited Damages](#Limited_Damages) does not limit damages for breach of:
-
-1.  [Client's Obligations](#Client's_Obligations)
+[Limited Damages](#Limited_Damages) does not limit damages for breach of _Client_'s payment obligations.
 
 ## <a id="General_Contract_Terms"></a>General Contract Terms
 
