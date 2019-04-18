@@ -72,7 +72,7 @@ _Developer_ agrees to do software development work that _Client_ assigns. _Devel
 
 3.  The _Technical Representative_ must respond promptly to reasonable _Developer_ requests for clarification about work to be done, while there is still _Time Left_ to do the work.
 
-4.  Any previous task must have been either completed by _Developer_ or abandoned in writing by the _Technical Representative_.
+4.  Any previously assigned must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_.
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
