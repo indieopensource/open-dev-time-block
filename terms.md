@@ -132,6 +132,10 @@ If the terms of a _Public License_, such as a copyleft license, require the work
 
 If the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_.
 
+#### <a id="Client_Licensed_Projects"></a>Client Licensed Projects
+
+[Copyleft When Required](#Copyleft_When_Required) and [Match Existing Licenses](#Match_Existing_Licenses) do not apply when _Client_ grants the relevant _Public License_, and that _Public License_ is a copyleft license.
+
 ### <a id="Separate_Licenses"></a>Separate Licenses
 
 Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about standardized terms.

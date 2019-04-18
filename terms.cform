@@ -82,6 +82,8 @@
 
             \Match Existing Licenses\  If the work is made up of changes or additions to existing software made available under a standardized <Public License>, the terms are those of that <Public License>.
 
+            \Client Licensed Projects\  {Copyleft When Required} and {Match Existing Licenses} do not apply when <Client> grants the relevant <Public License>, and that <Public License> is a copyleft license.
+
         \Separate Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about standardized terms.
 
         \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce the terms of {Public Licenses}.
