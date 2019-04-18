@@ -102,9 +102,13 @@ _Developer_ agrees to e-mail the _Technical Representative_ the number of _Unuse
 
 _Developer_ agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
 
+### <a id="Return_Loaned_Equipment"></a>Return Loaned Equipment
+
+Once this agreement ends, _Developer_ agrees to promptly return any equipment the _Client_ loaned for work under this agreement.
+
 ### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
 
-The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work)
+The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Return Loaned Equipment](#Return_Loaned_Equipment)
 
 ## <a id="Term"></a>Term
 
