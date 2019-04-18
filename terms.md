@@ -176,6 +176,10 @@ Both sides intend the _Proposal_ and these terms as the final, complete, and onl
 
 With the sole exception of [Enforcement of Public Licenses](#Enforcement_of_Public_Licenses), only _Developer_ and _Client_ may enforce this agreement.
 
+### <a id="Free_to_Discuss_Publicly"></a>Free to Discuss Publicly
+
+Unless _Developer_ and _Client_ have or enter into a nondisclosure agreement, each side is free to disclose and discuss both sides' performance under this agreement. The purpose of this rule is to allow _Developer_ and _Client_ to build reputations for fair dealing under these terms.
+
 ### <a id="Assignment"></a>Assignment
 
 Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management. Otherwise, each side needs the other side's prior, written permission to assign any right or license under this agreement. Attempts to assign against the terms of this agreement will have no legal effect.
