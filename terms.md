@@ -26,7 +26,7 @@
 
     3.  the **Scope**, which by default is open software projects that Developer has contributed to
 
-    4.  **Working Days**, which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed. The singular is **Working Day**.
+    4.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
 
     5.  **Working Hours**, which by default are the hours of 1000 to 1800 in the time zone of _Developer's Address_
 
