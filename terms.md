@@ -104,7 +104,7 @@ _Developer_ agrees to record all time spent on work under this agreement in fair
 
 ### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
 
-The following _Developer_ obligations continue after this agreement ends: [Make Up Missed Work](#Make_Up_Missed_Work)
+The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work)
 
 ## <a id="Term"></a>Term
 
