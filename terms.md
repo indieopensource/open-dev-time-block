@@ -64,7 +64,7 @@ The following _Client_ obligations continue after this agreement ends: [Pay the 
 
 ### <a id="Do_Assigned_Work"></a>Do Assigned Work
 
-_Developer_ agrees to do software development services that _Client_ assigns, on _Working Days_, during _Working Hours_. In order to assign work:
+_Developer_ agrees to do software development work that _Client_ assigns. _Developer_ agrees to do work only on _Working Days_, during _Working Hours_. In order to assign work:
 
 1.  The work must be in _Scope_.
 
