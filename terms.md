@@ -88,7 +88,7 @@ The purpose of [Written Instructions](#Written_Instructions) and [Prior Work Don
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
-_Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development generally. For example, _Developer_ agrees to provide their own computer, operating system, editor software, and Internet access. See [Pay Extraordinary Developer Expenses](#Pay_Extraordinary_Developer_Expenses) for _Client_'s obligation to cover other expenses.
+_Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development in _Scope_, generally. For example, _Developer_ agrees to provide their own computer, operating system, editor software, and Internet access. See [Pay Extraordinary Developer Expenses](#Pay_Extraordinary_Developer_Expenses) for _Client_'s obligation to cover other expenses.
 
 ### <a id="Make_Up_Missed_Work"></a>Make Up Missed Work
 
