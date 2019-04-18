@@ -34,7 +34,7 @@
 
 ### <a id="Pay_the_Fee"></a>Pay the Fee
 
-_Client_ agrees to pay the entire _Fee_ via the _Payment Method_ within seven calendar days of entering this agreement.
+_Client_ agrees to pay the entire _Fee_ within seven calendar days of entering this agreement.
 
 ### <a id="Pay_Extraordinary_Developer_Expenses"></a>Pay Extraordinary Developer Expenses
 
