@@ -122,7 +122,7 @@ _Developer_ licenses work that they create doing work under this agreement to th
 
 #### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
 
-In general, with the two exceptions that follow, the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+In general, with the exceptions of [Copyleft When Required](#Copyleft_When_Required) and [Match Existing Licenses](#Match_Existing_Licenses), the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
 #### <a id="Copyleft_When_Required"></a>Copyleft When Required
 
