@@ -54,7 +54,7 @@ _Client_ agrees to pay all tax on the _Fee_, except tax _Developer_ owes on inco
 
 ### <a id="Technical_Representative"></a>Technical Representative
 
-_Client_ agrees to appoint a **Technical Representative** by sending _Developer_ an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
+_Client_ agrees to appoint a **Technical Representative** by e-mailing _Developer_ their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
 
 ### <a id="Term_of_Client's_Obligations"></a>Term of Client's Obligations
 
@@ -68,7 +68,7 @@ _Developer_ agrees to do software development work that _Client_ assigns. _Devel
 
 #### <a id="Written_Instructions"></a>Written Instructions
 
-The _Technical Representative_ must send the _Developer_ written instructions for the work while there is still _Time Left_ and _Unused Hours_ to do the work.
+The _Technical Representative_ must e-mail the _Developer_ written instructions for the work while there is still _Time Left_ and _Unused Hours_ to do the work.
 
 #### <a id="Work_Within_Scope"></a>Work Within Scope
 
@@ -96,7 +96,7 @@ If _Developer_ is unable do work with remaining _Purchased Hours_ before the _De
 
 ### <a id="Report_Unused_Hours"></a>Report Unused Hours
 
-_Developer_ agrees to send the _Technical Representative_ the number of _Unused Hours_ on request, and to send the _Technical Representative_ a message once all _Purchased Hours_ have been worked.
+_Developer_ agrees to e-mail the _Technical Representative_ the number of _Unused Hours_ on request, and to e-mail the _Technical Representative_ a message once all _Purchased Hours_ have been worked.
 
 ### <a id="Track_Time"></a>Track Time
 

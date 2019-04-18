@@ -40,7 +40,7 @@
 
         \Pay Taxes on the Fee\  <Client> agrees to pay all tax on the <Fee>, except tax <Developer> owes on income.
 
-        \Technical Representative\  <Client> agrees to appoint a ""Technical Representative"" by sending <Developer> an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current <Technical Representative> leaves or becomes unavailable.  If <Client> has technical staff, the <Technical Representative> must be a member of the technical staff.
+        \Technical Representative\  <Client> agrees to appoint a ""Technical Representative"" by e-mailing <Developer> their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current <Technical Representative> leaves or becomes unavailable.  If <Client> has technical staff, the <Technical Representative> must be a member of the technical staff.
 
         \Term of Client's Obligations\  The following <Client> obligations continue after this agreement ends: {Pay the Fee}, {Pay Extraordinary Developer Expenses}, {Use the Agreed Payment Method}, {Cover Payment Method Costs}, {Pay Taxes on the Fee}
 
@@ -48,7 +48,7 @@
 
         \Do Assigned Work\  <Developer> agrees to do software development work that <Client> assigns.  <Developer> agrees to do work only on <Working Days>, during <Working Hours>.  In order to assign work:
 
-            \Written Instructions\  The <Technical Representative> must send the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
+            \Written Instructions\  The <Technical Representative> must e-mail the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
 
             \Work Within Scope\  The work must be in <Scope>.
 
@@ -62,7 +62,7 @@
 
         \Make Up Missed Work\  If <Developer> is unable do work with remaining <Purchased Hours> before the <Deadline> because <Developer> does not work on a <Working Day> due to medical reasons or personal emergency, <Developer> agrees to do that work after the <Deadline>.
 
-        \Report Unused Hours\  <Developer> agrees to send the <Technical Representative> the number of <Unused Hours> on request, and to send the <Technical Representative> a message once all <Purchased Hours> have been worked.
+        \Report Unused Hours\  <Developer> agrees to e-mail the <Technical Representative> the number of <Unused Hours> on request, and to e-mail the <Technical Representative> a message once all <Purchased Hours> have been worked.
 
         \Track Time\  <Developer> agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
 
