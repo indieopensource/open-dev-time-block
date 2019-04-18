@@ -120,11 +120,17 @@ This agreement does not assign any _Intellectual Property Right_, and no work un
 
 _Developer_ licenses work that they create doing work under this agreement to the public at large, including _Client_. The license terms for each separately licensable work are as follows:
 
-1.  In general, with the two exceptions that follow, the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+#### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
 
-2.  If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+In general, with the two exceptions that follow, the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
-3.  If the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_.
+#### <a id="Copyleft_When_Required"></a>Copyleft When Required
+
+If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+
+#### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
+
+If the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_.
 
 ### <a id="Separate_Licenses"></a>Separate Licenses
 
