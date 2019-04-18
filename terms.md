@@ -46,7 +46,7 @@ _Client_ agrees to make all payments under this agreement via the _Payment Metho
 
 ### <a id="Cover_Payment_Method_Costs"></a>Cover Payment Method Costs
 
-_Client_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, net of any costs of receiving payment the _Payment Method_.
+_Client_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, taking into account any costs of receiving payment the _Payment Method_.
 
 ### <a id="Pay_Taxes_on_the_Fee"></a>Pay Taxes on the Fee
 
