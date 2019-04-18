@@ -88,7 +88,7 @@ The purpose of [Written Instructions](#Written_Instructions) and [Prior Work Don
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
-_Developer_ agrees to pay for all the equipment, licenses, and services needed to do open software development generally.
+_Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development generally.
 
 ### <a id="Make_Up_Missed_Work"></a>Make Up Missed Work
 
