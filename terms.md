@@ -38,7 +38,7 @@ _Client_ agrees to pay the entire _Fee_ within seven calendar days of entering t
 
 ### <a id="Pay_Extraordinary_Developer_Expenses"></a>Pay Extraordinary Developer Expenses
 
-If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services to do, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
+If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
@@ -88,7 +88,7 @@ The purpose of [Written Instructions](#Written_Instructions) and [Prior Work Don
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
-_Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development generally. For example, _Developer_ agrees to cover the cost of their computer, operating system, editor software, and Internet access. See [Pay Extraordinary Developer Expenses](#Pay_Extraordinary_Developer_Expenses) for _Client_'s obligation to cover other expenses.
+_Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development generally. For example, _Developer_ agrees to provide their own computer, operating system, editor software, and Internet access. See [Pay Extraordinary Developer Expenses](#Pay_Extraordinary_Developer_Expenses) for _Client_'s obligation to cover other expenses.
 
 ### <a id="Make_Up_Missed_Work"></a>Make Up Missed Work
 
