@@ -40,7 +40,7 @@
 
         \Pay Taxes on the Fee\  <Client> agrees to pay all tax on the <Fee>, except tax <Developer> owes on income.
 
-        \Technical Representative\  <Client> agrees to appoint a ""Technical Representative"" by sending <Developer> an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current <Technical Representative> leaves or becomes unavailable.  If <Client> or any <Affiliate> has technical staff, the <Technical Representative> must be a member of the technical staff.
+        \Technical Representative\  <Client> agrees to appoint a ""Technical Representative"" by sending <Developer> an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current <Technical Representative> leaves or becomes unavailable.  If <Client> has technical staff, the <Technical Representative> must be a member of the technical staff.
 
         \Term of Client's Obligations\  {Client's Obligations} continues after this agreement ends.
 
@@ -125,8 +125,6 @@
             \Exclusive Jurisdiction\  Both sides consent to the exclusive jurisdiction of <Developer's Local Courts>.  Both sides may enforce judgments from <Developer's Local Courts> in other jurisdictions.
 
     \Definitions\
-
-        \\  ""Affiliate"" means a legal entity that has <Control> over, is under the <Control> of, or is under common <Control> with another legal entity.
 
         \\  ""Control"" means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract.  <Control> can be direct or indirect.
 

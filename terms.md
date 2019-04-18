@@ -54,7 +54,7 @@ _Client_ agrees to pay all tax on the _Fee_, except tax _Developer_ owes on inco
 
 ### <a id="Technical_Representative"></a>Technical Representative
 
-_Client_ agrees to appoint a **Technical Representative** by sending _Developer_ an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ or any _Affiliate_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
+_Client_ agrees to appoint a **Technical Representative** by sending _Developer_ an e-mail with their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
 
 ### <a id="Term_of_Client's_Obligations"></a>Term of Client's Obligations
 
@@ -194,24 +194,22 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 ## <a id="Definitions"></a>Definitions
 
-1.  **Affiliate** means a legal entity that has _Control_ over, is under the _Control_ of, or is under common _Control_ with another legal entity.
+1.  **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
 
-2.  **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
+2.  **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
 
-3.  **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
+3.  **Full Time** means eight hours per _Working Day_.
 
-4.  **Full Time** means eight hours per _Working Day_.
+4.  **Half Time** means four hours per _Working Day_.
 
-5.  **Half Time** means four hours per _Working Day_.
+5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-6.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+6.  **Part Time** means two hours per _Working Day_.
 
-7.  **Part Time** means two hours per _Working Day_.
+7.  **Public License** means a license to the public at large, or to everyone who receives a copy of the licensed work.
 
-8.  **Public License** means a license to the public at large, or to everyone who receives a copy of the licensed work.
+8.  **Remaining Working Days** means the number of _Working Days_ left before the _Deadline_. For example, if seven calendar days remain before the _Deadline_, five of which are _Working Days_, there are five _Remaining Working Days_.
 
-9.  **Remaining Working Days** means the number of _Working Days_ left before the _Deadline_. For example, if seven calendar days remain before the _Deadline_, five of which are _Working Days_, there are five _Remaining Working Days_.
+9.  **Time Left** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left_.
 
-10.  **Time Left** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left_.
-
-11.  **Unused Hours** means the _Purchased Hours_ minus the time _Developer_ has worked under this agreement to date.
+10.  **Unused Hours** means the _Purchased Hours_ minus the time _Developer_ has worked under this agreement to date.
