@@ -48,9 +48,9 @@
 
         \Do Assigned Work\  <Developer> agrees to do software development work that <Client> assigns.  <Developer> agrees to do work only on <Working Days>, during <Working Hours>.  In order to assign work:
 
-            \\  The work must be in <Scope>.
-
             \\  The <Technical Representative> must send the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
+
+            \\  The work must be in <Scope>.
 
             \\  The <Technical Representative> must respond promptly to reasonable <Developer> requests for clarification about work to be done, while there is still <Time Left> to do the work.
 
