@@ -62,7 +62,7 @@ The following _Client_ obligations continue after this agreement ends: [Pay the 
 
 ## <a id="Developer's_Obligations"></a>Developer's Obligations
 
-### <a id="Do_Project_Work"></a>Do Project Work
+### <a id="Do_Assigned_Work"></a>Do Assigned Work
 
 _Developer_ agrees to do software development services that _Client_ assigns, on _Working Days_, during _Working Hours_. In order to assign work:
 
