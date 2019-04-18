@@ -38,7 +38,7 @@ _Client_ agrees to pay the entire _Fee_ within seven calendar days of entering t
 
 ### <a id="Pay_Extraordinary_Developer_Expenses"></a>Pay Extraordinary Developer Expenses
 
-If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
+If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ requires _Developer_ to use and return specific equipment, _Client_ agrees to cover the costs of packaging and shipping, both ways. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
