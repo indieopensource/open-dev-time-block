@@ -32,7 +32,7 @@
 
         \Pay the Fee\  <Client> agrees to pay the entire <Fee> within [Payment Deadline] of entering this agreement.
 
-        \Pay Extraordinary Developer Expenses\  If <Client> assigns <Developer> work that requires extraordinary equipment, licenses, or services to do, then <Client> agrees to pay the costs for <Developer> directly.  If <Client> cannot pay a cost directly, <Client> agrees to advance <Developer> the cost.  See {Cover Basic Expenses} for <Developer>'s obligation to cover other expenses.
+        \Pay Extraordinary Developer Expenses\  If <Client> assigns <Developer> work that requires extraordinary equipment, licenses, or services to do, then <Client> agrees to pay the costs for <Developer> directly.  For example, <Client> agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that <Client> specifically requires <Developer> to use.  If <Client> cannot pay a cost directly, <Client> agrees to advance <Developer> the cost.  See {Cover Basic Expenses} for <Developer>'s obligation to cover other expenses.
 
         \Use the Agreed Payment Method\  <Client> agrees to make all payments under this agreement via the <Payment Method>.
 
@@ -58,7 +58,7 @@
 
         \No Piling On\  The purpose of {Written Instructions} and {Prior Work Done} is to prevent <Client> from piling on new work shortly before the <Deadline>.
 
-        \Cover Basic Expenses\  <Developer> agrees to pay for all equipment, licenses, and services needed to do open software development generally.  See {Pay Extraordinary Developer Expenses} for <Client>'s obligation to cover other expenses.
+        \Cover Basic Expenses\  <Developer> agrees to pay for all equipment, licenses, and services needed to do open software development generally.  For example, <Developer> agrees to cover the cost of their computer, operating system, editor software, and Internet access.  See {Pay Extraordinary Developer Expenses} for <Client>'s obligation to cover other expenses.
 
         \Make Up Missed Work\  If <Developer> is unable do work with remaining <Purchased Hours> before the <Deadline> because <Developer> does not work on a <Working Day> due to medical reasons or personal emergency, <Developer> agrees to do that work after the <Deadline>.
 
