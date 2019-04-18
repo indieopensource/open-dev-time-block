@@ -2,10 +2,6 @@
 
 **Developer** and **Client** agree:
 
-## <a id="Purpose"></a>Purpose
-
-This license fills gaps between the terms open software developers apply to their work and the terms companies expect for software they rely on. Open software developers can sell supplementary licenses to companies on these terms to fill those gaps.
-
 ## <a id="Specifics"></a>Specifics
 
 1.  The cosigned **Proposal** referencing these terms must identify:
