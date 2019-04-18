@@ -126,7 +126,7 @@ In general, with the exceptions of [Copyleft When Required](#Copyleft_When_Requi
 
 #### <a id="Copyleft_When_Required"></a>Copyleft When Required
 
-If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the terms required.
 
 #### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
 
