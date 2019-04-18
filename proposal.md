@@ -1,4 +1,4 @@
-# Open Development Time Bank Proposal
+# Open Development Time Block Proposal
 
 **Developer** and **Client** agree:
 

@@ -1,4 +1,4 @@
-# Open Development Time Bank Terms
+# Open Development Time Block Terms
 
 **Developer** and **Client** agree:
 
