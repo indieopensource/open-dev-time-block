@@ -62,7 +62,7 @@ _Client_ agrees to pay all tax on the _Fee_, except tax _Developer_ owes on inco
 
 _Client_ agrees to appoint a **Technical Representative** by e-mailing _Developer_ their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
 
-### <a id="Term_of_Client's_Obligations"></a>Term of Client's Obligations
+### <a id="Client's_Continuing_Obligations"></a>Client's Continuing Obligations
 
 The following _Client_ obligations continue after this agreement ends: [Pay the Fee](#Pay_the_Fee), [Pay Extraordinary Developer Expenses](#Pay_Extraordinary_Developer_Expenses), [Use the Agreed Payment Method](#Use_the_Agreed_Payment_Method), [Cover Payment Method Costs](#Cover_Payment_Method_Costs), [Pay Taxes on the Fee](#Pay_Taxes_on_the_Fee)
 
@@ -116,7 +116,7 @@ _Developer_ agrees to record all time spent on work under this agreement in fair
 
 Once this agreement ends, _Developer_ agrees to promptly return any equipment the _Client_ loaned for work under this agreement.
 
-### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
+### <a id="Developer's_Continuing_Obligations"></a>Developer's Continuing Obligations
 
 The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Return Loaned Equipment](#Return_Loaned_Equipment)
 
