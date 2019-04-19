@@ -78,11 +78,13 @@
 
         \Public Licenses\  <Developer> licenses work that they create doing work under this agreement to the public at large, including <Client>.  The license terms for each separately licensable work are as follows:
 
-            \\  If the terms of a <Public License>, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+            \Blue Oak By Default\  In general, with the exceptions of {Copyleft When Required} and {Match Existing Licenses}, the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
-            \\  Otherwise, if the work is made up of changes or additions to existing software made available under a standardized <Public License>, the terms are those of that <Public License>.
+            \Copyleft When Required\  If the terms of a <Public License>, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the terms required.
 
-            \\  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+            \Match Existing Licenses\  If the work is made up of changes or additions to existing software made available under a standardized <Public License>, the terms are those of that <Public License>.
+
+            \Client Licensed Projects\  {Copyleft When Required} and {Match Existing Licenses} do not apply when <Client> grants the relevant <Public License>, and that <Public License> is a copyleft license.
 
         \Separate Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about standardized terms.
 

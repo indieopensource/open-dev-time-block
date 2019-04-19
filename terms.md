@@ -124,11 +124,21 @@ This agreement does not assign any _Intellectual Property Right_, and no work un
 
 _Developer_ licenses work that they create doing work under this agreement to the public at large, including _Client_. The license terms for each separately licensable work are as follows:
 
-1.  If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
+#### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
 
-2.  Otherwise, if the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_.
+In general, with the exceptions of [Copyleft When Required](#Copyleft_When_Required) and [Match Existing Licenses](#Match_Existing_Licenses), the terms will be those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
-3.  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+#### <a id="Copyleft_When_Required"></a>Copyleft When Required
+
+If the terms of a _Public License_, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the terms required.
+
+#### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
+
+If the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_.
+
+#### <a id="Client_Licensed_Projects"></a>Client Licensed Projects
+
+[Copyleft When Required](#Copyleft_When_Required) and [Match Existing Licenses](#Match_Existing_Licenses) do not apply when _Client_ grants the relevant _Public License_, and that _Public License_ is a copyleft license.
 
 ### <a id="Separate_Licenses"></a>Separate Licenses
 
