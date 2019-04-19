@@ -152,7 +152,7 @@ If the work is made up of changes or additions to existing software made availab
 
 ### <a id="Separate_Licenses"></a>Separate Licenses
 
-Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about standardized terms.
+Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about standardized _Public License_ terms.
 
 ### <a id="Enforcement_of_Public_Licenses"></a>Enforcement of Public Licenses
 
