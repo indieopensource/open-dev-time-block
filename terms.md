@@ -132,7 +132,7 @@ This agreement does not assign any _Intellectual Property Right_, and no work un
 
 ### <a id="Public_Licenses"></a>Public Licenses
 
-_Developer_ licenses work that they create doing work under this agreement to the public at large, including _Client_. The license terms for each separately licensable work are as follows:
+_Developer_ licenses work that they create under this agreement to the public at large, including _Client_. The license terms for each separately licensable work are as follows:
 
 #### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
 
