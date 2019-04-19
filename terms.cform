@@ -52,6 +52,8 @@
 
         \Do Assigned Work\  <Developer> agrees to do software development work that <Client> assigns.  <Developer> agrees to do work only on <Working Days>, during <Working Hours>.  In order to assign work:
 
+            \Paid the Fee\  <Client> must have paid the <Fee>.  <Developer> does not agree to do any work before the <Fee> is paid.
+
             \Written Instructions\  The <Technical Representative> must e-mail the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
 
             \Work Within Scope\  The work must be in <Scope>.

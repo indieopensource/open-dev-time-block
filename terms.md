@@ -72,6 +72,10 @@ The following _Client_ obligations continue after this agreement ends: [Pay the 
 
 _Developer_ agrees to do software development work that _Client_ assigns. _Developer_ agrees to do work only on _Working Days_, during _Working Hours_. In order to assign work:
 
+#### <a id="Paid_the_Fee"></a>Paid the Fee
+
+_Client_ must have paid the _Fee_. _Developer_ does not agree to do any work before the _Fee_ is paid.
+
 #### <a id="Written_Instructions"></a>Written Instructions
 
 The _Technical Representative_ must e-mail the _Developer_ written instructions for the work while there is still _Time Left_ and _Unused Hours_ to do the work.
