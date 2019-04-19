@@ -20,6 +20,8 @@
 
             \\  the ""Payment Method"", which by default is [Default Payment Method]
 
+            \\  the ""Payment Currency"", which by default is [Default Currency]
+
             \\  the ""Work Pace"", <Full Time>, <Half Time>, or <Part Time>, which by default is <Part Time>
 
             \\  the ""Scope"", which by default is [Default Scope]
@@ -37,6 +39,8 @@
         \Use the Agreed Payment Method\  <Client> agrees to make all payments under this agreement via the <Payment Method>.
 
         \Cover Payment Method Costs\  <Client> agrees to increase the amount of each payment to <Developer> so that <Developer> receives the full amount owed, taking into account any costs of receiving payment the <Payment Method>.
+
+        \Pay in the Agreed Currency\  <Client> agrees to make all payments under this agreement in the <Payment Currency>.
 
         \Pay Taxes on the Fee\  <Client> agrees to pay all tax on the <Fee>, except tax <Developer> owes on income.
 

@@ -22,13 +22,15 @@
 
     1.  the **Payment Method**, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
 
-    2.  the **Work Pace**, _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
+    2.  the **Payment Currency**, which by default is United States Dollars
 
-    3.  the **Scope**, which by default is open software projects that Developer has contributed to
+    3.  the **Work Pace**, _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
 
-    4.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
+    4.  the **Scope**, which by default is open software projects that Developer has contributed to
 
-    5.  **Working Hours**, which by default are the hours of 1000 to 1800 in the time zone of _Developer's Address_
+    5.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
+
+    6.  **Working Hours**, which by default are the hours of 1000 to 1800 in the time zone of _Developer's Address_
 
 ## <a id="Client's_Obligations"></a>Client's Obligations
 
@@ -47,6 +49,10 @@ _Client_ agrees to make all payments under this agreement via the _Payment Metho
 ### <a id="Cover_Payment_Method_Costs"></a>Cover Payment Method Costs
 
 _Client_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, taking into account any costs of receiving payment the _Payment Method_.
+
+### <a id="Pay_in_the_Agreed_Currency"></a>Pay in the Agreed Currency
+
+_Client_ agrees to make all payments under this agreement in the _Payment Currency_.
 
 ### <a id="Pay_Taxes_on_the_Fee"></a>Pay Taxes on the Fee
 
