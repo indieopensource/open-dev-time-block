@@ -168,15 +168,13 @@ _Developer_ guarantees that they will have all the rights needed to license work
 
 With the exception of _Developer_'s obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides all work under this agreement as is, without any warranty.
 
-### <a id="Limited_Damages"></a>Limited Damages
-
-#### <a id="Damages_Limit"></a>Damages Limit
+### <a id="Damages_Limit"></a>Damages Limit
 
 Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the _Fee_ that _Client_ paid _Developer_ under this agreement. This limit applies even if _Developer_ knows that _Client_ may suffer damages, and even if _Client_ never paid the _Fee_.
 
-#### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
+### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 
-[Limited Damages](#Limited_Damages) does not limit damages for breach of _Client_'s payment obligations.
+[Damages Limit](#Damages_Limit) does not limit damages for breach of _Client_'s payment obligations.
 
 ## <a id="General_Contract_Terms"></a>General Contract Terms
 
