@@ -38,7 +38,7 @@ _Client_ agrees to pay the entire _Fee_ within fifteen calendar days of entering
 
 ### <a id="Pay_Extraordinary_Developer_Expenses"></a>Pay Extraordinary Developer Expenses
 
-If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
+If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ requires _Developer_ to use and return specific equipment, _Client_ agrees to cover the costs of packaging and shipping, both ways. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to cover other expenses.
 
 ### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
 
@@ -102,9 +102,13 @@ _Developer_ agrees to e-mail the _Technical Representative_ the number of _Unuse
 
 _Developer_ agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
 
+### <a id="Return_Loaned_Equipment"></a>Return Loaned Equipment
+
+Once this agreement ends, _Developer_ agrees to promptly return any equipment the _Client_ loaned for work under this agreement.
+
 ### <a id="Term_of_Developer's_Obligations"></a>Term of Developer's Obligations
 
-The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work)
+The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Return Loaned Equipment](#Return_Loaned_Equipment)
 
 ## <a id="Term"></a>Term
 

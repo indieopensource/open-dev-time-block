@@ -32,7 +32,7 @@
 
         \Pay the Fee\  <Client> agrees to pay the entire <Fee> within [Payment Deadline] of entering this agreement.
 
-        \Pay Extraordinary Developer Expenses\  If <Client> assigns <Developer> work that requires extraordinary equipment, licenses, or services, then <Client> agrees to pay the costs for <Developer> directly.  For example, <Client> agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that <Client> specifically requires <Developer> to use.  If <Client> cannot pay a cost directly, <Client> agrees to advance <Developer> the cost.  See {Cover Basic Expenses} for <Developer>'s obligation to cover other expenses.
+        \Pay Extraordinary Developer Expenses\  If <Client> assigns <Developer> work that requires extraordinary equipment, licenses, or services, then <Client> agrees to pay the costs for <Developer> directly.  For example, <Client> agrees to cover the costs of proprietary software licenses, testing hardware, and specific online services that <Client> specifically requires <Developer> to use.  If <Client> requires <Developer> to use and return specific equipment, <Client> agrees to cover the costs of packaging and shipping, both ways.  If <Client> cannot pay a cost directly, <Client> agrees to advance <Developer> the cost.  See {Cover Basic Expenses} for <Developer>'s obligation to cover other expenses.
 
         \Use the Agreed Payment Method\  <Client> agrees to make all payments under this agreement via the <Payment Method>.
 
@@ -66,7 +66,9 @@
 
         \Track Time\  <Developer> agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
 
-        \Term of Developer's Obligations\  The following <Developer> obligations continue after this agreement ends: {Cover Basic Expenses}, {Make Up Missed Work}
+        \Return Loaned Equipment\  Once this agreement ends, <Developer> agrees to promptly return any equipment the <Client> loaned for work under this agreement.
+
+        \Term of Developer's Obligations\  The following <Developer> obligations continue after this agreement ends: {Cover Basic Expenses}, {Make Up Missed Work}, {Return Loaned Equipment}
 
     \Term\  This agreement starts when <Developer> receives full payment of the <Fee>, and continues until the <Deadline>.
 
