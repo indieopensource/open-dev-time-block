@@ -60,7 +60,7 @@ _Client_ agrees to pay all tax on the _Fee_, except tax _Developer_ owes on inco
 
 ### <a id="Technical_Representative"></a>Technical Representative
 
-_Client_ agrees to appoint a **Technical Representative** by e-mailing _Developer_ their name, title, and e-mail address before work starts, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
+_Client_ agrees to appoint a **Technical Representative** by e-mailing _Developer_ their name, title, and e-mail address, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
 
 ### <a id="Client's_Continuing_Obligations"></a>Client's Continuing Obligations
 
