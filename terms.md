@@ -110,7 +110,7 @@ If _Developer_ is unable do work with remaining _Purchased Hours_ before the _De
 
 ### <a id="Report_Unused_Hours"></a>Report Unused Hours
 
-_Developer_ agrees to e-mail the _Technical Representative_ the number of _Unused Hours_ on request, and to e-mail the _Technical Representative_ a message once all _Purchased Hours_ have been worked.
+_Developer_ agrees to e-mail the _Technical Representative_ the number of _Unused Hours_ on request, and to e-mail the _Technical Representative_ once all _Purchased Hours_ have been worked.
 
 ### <a id="Track_Time"></a>Track Time
 
