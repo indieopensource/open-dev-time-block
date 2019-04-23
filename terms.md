@@ -24,7 +24,7 @@
 
     2.  the **Payment Currency**, which by default is United States Dollars
 
-    3.  the **Work Pace**, _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
+    3.  a **Work Pace** of _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
 
     4.  the **Scope**, which by default is open software projects that Developer has contributed to
 

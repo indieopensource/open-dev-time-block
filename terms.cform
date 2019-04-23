@@ -22,7 +22,7 @@
 
             \\  the ""Payment Currency"", which by default is [Default Currency]
 
-            \\  the ""Work Pace"", <Full Time>, <Half Time>, or <Part Time>, which by default is <Part Time>
+            \\  a ""Work Pace"" of <Full Time>, <Half Time>, or <Part Time>, which by default is <Part Time>
 
             \\  the ""Scope"", which by default is [Default Scope]
 
