@@ -28,7 +28,7 @@
 
             \\  ""Working Days"" (singular: ""Working Day""), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of <Developer's Address> typically stay closed
 
-            \\  ""Working Hours"", which by default are the hours of [Default Working Hours] in the time zone of <Developer's Address>
+            \\  ""Working Hours"", which by default are [Default Working Hours] in the time zone of <Developer's Address>
 
     \Client's Obligations\
 

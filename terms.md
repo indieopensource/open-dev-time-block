@@ -30,7 +30,7 @@
 
     5.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
 
-    6.  **Working Hours**, which by default are the hours of 1000 to 1800 in the time zone of _Developer's Address_
+    6.  **Working Hours**, which by default are 1000 to 1800 in the time zone of _Developer's Address_
 
 ## <a id="Client's_Obligations"></a>Client's Obligations
 
