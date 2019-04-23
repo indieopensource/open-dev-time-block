@@ -122,7 +122,7 @@ Once this agreement ends, _Developer_ agrees to promptly return any equipment th
 
 ### <a id="Developer's_Continuing_Obligations"></a>Developer's Continuing Obligations
 
-The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Return Loaned Equipment](#Return_Loaned_Equipment)
+The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Track Time](#Track_Time), [Return Loaned Equipment](#Return_Loaned_Equipment)
 
 ## <a id="Term"></a>Term
 
