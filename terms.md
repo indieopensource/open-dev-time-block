@@ -64,7 +64,7 @@ _Client_ agrees to appoint a **Technical Representative** by e-mailing _Develope
 
 ### <a id="Client's_Continuing_Obligations"></a>Client's Continuing Obligations
 
-The following _Client_ obligations continue after this agreement ends: [Pay the Fee](#Pay_the_Fee), [Cover Extraordinary Developer Expenses](#Cover_Extraordinary_Developer_Expenses), [Use the Agreed Payment Method](#Use_the_Agreed_Payment_Method), [Cover Payment Method Costs](#Cover_Payment_Method_Costs), [Pay Taxes on the Fee](#Pay_Taxes_on_the_Fee)
+The following _Client_ obligations continue after this agreement ends: [Pay the Fee](#Pay_the_Fee), [Cover Extraordinary Developer Expenses](#Cover_Extraordinary_Developer_Expenses), [Use the Agreed Payment Method](#Use_the_Agreed_Payment_Method), [Cover Payment Method Costs](#Cover_Payment_Method_Costs), [Pay in the Agreed Currency](#Pay_in_the_Agreed_Currency), [Pay Taxes on the Fee](#Pay_Taxes_on_the_Fee)
 
 ## <a id="Developer's_Obligations"></a>Developer's Obligations
 
