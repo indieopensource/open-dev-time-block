@@ -88,13 +88,13 @@ The work must be in _Scope_.
 
 The _Technical Representative_ must respond promptly to reasonable _Developer_ requests for clarification about work to be done, while there is still _Time Left_ to do the work.
 
-#### <a id="Prior_Work_Done"></a>Prior Work Done
+#### <a id="Prior_Assignments_Done"></a>Prior Assignments Done
 
 Any previously assigned must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_.
 
 ### <a id="No_Piling_On"></a>No Piling On
 
-The purpose of [Written Instructions](#Written_Instructions) and [Prior Work Done](#Prior_Work_Done) is to prevent _Client_ from piling on new work shortly before the _Deadline_.
+The purpose of [Written Instructions](#Written_Instructions) and [Prior Assignments Done](#Prior_Assignments_Done) is to prevent _Client_ from piling on new work shortly before the _Deadline_.
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
