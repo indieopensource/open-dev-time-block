@@ -94,7 +94,7 @@ The assignment must be made clear while there are still enough _Unused Hours_ to
 
 #### <a id="Prior_Assignments_Done"></a>Prior Assignments Done
 
-Any work previously assigned must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_ before any more work can be assigned.
+Any work previously assigned work must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_ before any more work can be assigned.
 
 ### <a id="No_Piling_On"></a>No Piling On
 
