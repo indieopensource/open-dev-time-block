@@ -144,7 +144,7 @@ Dy default, the terms are the latest version of The Blue Oak Model License on bl
 
 #### <a id="Copyleft_When_Required"></a>Copyleft When Required
 
-If the terms of a _Public License_, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required. This rule does not apply when _Client_ is the only one granting that _Public License_.
+If a _Public License_, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required. This rule does not apply when _Client_ is the only one granting that _Public License_.
 
 #### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
 
@@ -156,7 +156,7 @@ Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Li
 
 ### <a id="Enforcement_of_Public_Licenses"></a>Enforcement of Public Licenses
 
-Others who are not parties to this agreement may enforce the terms of [Public Licenses](#Public_Licenses).
+Others who are not parties to this agreement may enforce [Public Licenses](#Public_Licenses).
 
 ### <a id="Warranty"></a>Warranty
 

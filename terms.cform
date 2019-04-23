@@ -88,13 +88,13 @@
 
             \Blue Oak By Default\  Dy default, the terms are the latest version of The Blue Oak Model License on blueoakcouncil.org.
 
-            \Copyleft When Required\  If the terms of a <Public License>, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required.  This rule does not apply when <Client> is the only one granting that <Public License>.
+            \Copyleft When Required\  If a <Public License>, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required.  This rule does not apply when <Client> is the only one granting that <Public License>.
 
             \Match Existing Licenses\  If the work is made up of changes or additions to existing software made available under a <Public License>, the terms are those of that <Public License>.  This rule does not apply when <Client> is the only one granting that <Public License>, and the <Public License> is a copyleft license.
 
         \Standard Public Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about <Public License> terms.
 
-        \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce the terms of {Public Licenses}.
+        \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce {Public Licenses}.
 
         \Warranty\  <Developer> guarantees that they will have all the rights needed to license work they create and use to write software under this agreement.  <Client> agrees that <Developer> may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.
 
