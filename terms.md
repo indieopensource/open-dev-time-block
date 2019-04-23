@@ -90,7 +90,7 @@ The _Technical Representative_ must respond promptly to reasonable _Developer_ r
 
 #### <a id="Prior_Assignments_Done"></a>Prior Assignments Done
 
-Any previously assigned must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_.
+Any work previously assigned must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_ before any more work can be assigned.
 
 ### <a id="No_Piling_On"></a>No Piling On
 
