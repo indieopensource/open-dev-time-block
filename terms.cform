@@ -90,9 +90,9 @@
 
             \Copyleft When Required\  If the terms of a <Public License>, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required.  This rule does not apply when <Client> is the only one granting that <Public License>.
 
-            \Match Existing Licenses\  If the work is made up of changes or additions to existing software made available under a standardized <Public License>, the terms are those of that <Public License>.  This rule does not apply when <Client> is the only one granting that <Public License>, and the <Public License> is a copyleft license.
+            \Match Existing Licenses\  If the work is made up of changes or additions to existing software made available under a <Public License>, the terms are those of that <Public License>.  This rule does not apply when <Client> is the only one granting that <Public License>, and the <Public License> is a copyleft license.
 
-        \Standard Public Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about standardized <Public License> terms.
+        \Standard Public Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Client>'s agreement.  The purpose of this rule is to allow <Developer> and <Client> to rely on guidance about <Public License> terms.
 
         \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce the terms of {Public Licenses}.
 

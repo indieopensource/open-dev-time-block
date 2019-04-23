@@ -148,11 +148,11 @@ If the terms of a _Public License_, such as a copyleft license, require the work
 
 #### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
 
-If the work is made up of changes or additions to existing software made available under a standardized _Public License_, the terms are those of that _Public License_. This rule does not apply when _Client_ is the only one granting that _Public License_, and the _Public License_ is a copyleft license.
+If the work is made up of changes or additions to existing software made available under a _Public License_, the terms are those of that _Public License_. This rule does not apply when _Client_ is the only one granting that _Public License_, and the _Public License_ is a copyleft license.
 
 ### <a id="Standard_Public_Licenses"></a>Standard Public Licenses
 
-Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about standardized _Public License_ terms.
+Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about _Public License_ terms.
 
 ### <a id="Enforcement_of_Public_Licenses"></a>Enforcement of Public Licenses
 
