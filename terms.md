@@ -86,7 +86,7 @@ The _Technical Representative_ must e-mail the _Developer_ written instructions 
 
 #### <a id="Time_Left"></a>Time Left
 
-The assignment must be made clear while there is still enough _Time Left_ to do the work.
+The assignment must be made clear while there is still enough _Time Left Before the Deadline_ to do the work.
 
 #### <a id="Hours_Left"></a>Hours Left
 
@@ -246,6 +246,6 @@ Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. 
 
 8.  **Remaining Working Days** means the number of _Working Days_ left before the _Deadline_. For example, if seven calendar days remain before the _Deadline_, five of which are _Working Days_, there are five _Remaining Working Days_.
 
-9.  **Time Left** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left_.
+9.  **Time Left Before the Deadline** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left Before the Deadline_.
 
 10.  **Unused Hours** means the _Purchased Hours_ minus the time _Developer_ has worked under this agreement to date.

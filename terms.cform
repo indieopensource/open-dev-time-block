@@ -58,7 +58,7 @@
 
             \Clear Instructions\  The <Technical Representative> must e-mail the <Developer> written instructions for the work, and respond to reasonable <Developer> requests for clarification.
 
-            \Time Left\  The assignment must be made clear while there is still enough <Time Left> to do the work.
+            \Time Left\  The assignment must be made clear while there is still enough <Time Left Before the Deadline> to do the work.
 
             \Hours Left\  The assignment must be made clear while there are still enough <Unused Hours> to do the work.
 
@@ -152,6 +152,6 @@
 
         \\  ""Remaining Working Days"" means the number of <Working Days> left before the <Deadline>.  For example, if seven calendar days remain before the <Deadline>, five of which are <Working Days>, there are five <Remaining Working Days>.
 
-        \\  ""Time Left"" means the number of <Remaining Working Days> multiplied by the <Work Pace>.  For example, if there are five <Remaining Working Days> and the <Work Pace> is <Half Time>, then there are twenty <Working Hours> of <Time Left>.
+        \\  ""Time Left Before the Deadline"" means the number of <Remaining Working Days> multiplied by the <Work Pace>.  For example, if there are five <Remaining Working Days> and the <Work Pace> is <Half Time>, then there are twenty <Working Hours> of <Time Left Before the Deadline>.
 
         \\  ""Unused Hours"" means the <Purchased Hours> minus the time <Developer> has worked under this agreement to date.
