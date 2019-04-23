@@ -54,15 +54,17 @@
 
             \Paid the Fee\  <Client> must have paid the <Fee>.  <Developer> does not agree to do any work before the <Fee> is paid.
 
-            \Written Instructions\  The <Technical Representative> must e-mail the <Developer> written instructions for the work while there is still <Time Left> and <Unused Hours> to do the work.
+            \Work Within Scope\  The work must be in <Scope>.  <Developer> does not agree to do any work out of <Scope>.
 
-            \Work Within Scope\  The work must be in <Scope>.
+            \Clear Instructions\  The <Technical Representative> must e-mail the <Developer> written instructions for the work, and respond to reasonable <Developer> requests for clarification.
 
-            \Clear Instructions\  The <Technical Representative> must respond promptly to reasonable <Developer> requests for clarification about work to be done, while there is still <Time Left> to do the work.
+            \Time Left\  The assignment must be made clear while there is still enough <Time Left> to do the work.
+
+            \Hours Left\  The assignment must be made clear while there are still enough <Unused Hours> to do the work.
 
             \Prior Assignments Done\  Any work previously assigned must have been completed or canceled by the <Technical Representative> by e-mail to <Developer> before any more work can be assigned.
 
-        \No Piling On\  The purpose of {Written Instructions} and {Prior Assignments Done} is to prevent <Client> from piling on new work shortly before the <Deadline>.
+        \No Piling On\  The purpose of {Clear Instructions}, {Time Left}, {Hours Left}, and {Prior Assignments Done} is to prevent <Client> from piling on new work shortly before the <Deadline>.
 
         \Cover Basic Expenses\  <Developer> agrees to pay for all equipment, licenses, and services needed to do open software development in <Scope>, generally.  For example, <Developer> agrees to provide their own computer, operating system, editor software, and Internet access.  See {Pay Extraordinary Developer Expenses} for <Client>'s obligation to cover other expenses.
 

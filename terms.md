@@ -76,17 +76,21 @@ _Developer_ agrees to do software development work that _Client_ assigns. _Devel
 
 _Client_ must have paid the _Fee_. _Developer_ does not agree to do any work before the _Fee_ is paid.
 
-#### <a id="Written_Instructions"></a>Written Instructions
-
-The _Technical Representative_ must e-mail the _Developer_ written instructions for the work while there is still _Time Left_ and _Unused Hours_ to do the work.
-
 #### <a id="Work_Within_Scope"></a>Work Within Scope
 
-The work must be in _Scope_.
+The work must be in _Scope_. _Developer_ does not agree to do any work out of _Scope_.
 
 #### <a id="Clear_Instructions"></a>Clear Instructions
 
-The _Technical Representative_ must respond promptly to reasonable _Developer_ requests for clarification about work to be done, while there is still _Time Left_ to do the work.
+The _Technical Representative_ must e-mail the _Developer_ written instructions for the work, and respond to reasonable _Developer_ requests for clarification.
+
+#### <a id="Time_Left"></a>Time Left
+
+The assignment must be made clear while there is still enough _Time Left_ to do the work.
+
+#### <a id="Hours_Left"></a>Hours Left
+
+The assignment must be made clear while there are still enough _Unused Hours_ to do the work.
 
 #### <a id="Prior_Assignments_Done"></a>Prior Assignments Done
 
@@ -94,7 +98,7 @@ Any work previously assigned must have been completed or canceled by the _Techni
 
 ### <a id="No_Piling_On"></a>No Piling On
 
-The purpose of [Written Instructions](#Written_Instructions) and [Prior Assignments Done](#Prior_Assignments_Done) is to prevent _Client_ from piling on new work shortly before the _Deadline_.
+The purpose of [Clear Instructions](#Clear_Instructions), [Time Left](#Time_Left), [Hours Left](#Hours_Left), and [Prior Assignments Done](#Prior_Assignments_Done) is to prevent _Client_ from piling on new work shortly before the _Deadline_.
 
 ### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
 
