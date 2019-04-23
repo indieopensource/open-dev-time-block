@@ -14,7 +14,7 @@
 
     4.  the **Fee** for this agreement
 
-    5.  the **Purchased Hours** _Developer_ will make available to work under this agreement
+    5.  the number of **Purchased Hours** _Developer_ will make available to work under this agreement
 
     6.  the **Deadline** on which this agreement, and any _Unused Hours_, will expire
 
