@@ -1,5 +1,7 @@
 {
   "alignment": "left",
+  "beforeDefinition": "",
+  "afterDefinition": "",
   "heading": {
     "italic": true
   },
