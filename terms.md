@@ -140,7 +140,7 @@ _Developer_ licenses work that they create under this agreement to the public at
 
 #### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
 
-Dy default, the terms are the latest version of The Blue Oak Model License on blueoakcouncil.org.
+By default, the terms are the latest version of The Blue Oak Model License on blueoakcouncil.org.
 
 #### <a id="Copyleft_When_Required"></a>Copyleft When Required
 
