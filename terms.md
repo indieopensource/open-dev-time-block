@@ -1,251 +1,249 @@
-# Open Development Time Block Terms
-
 **Developer** and **Client** agree:
 
-## <a id="Specifics"></a>Specifics
+# Specifics
 
-1.  The cosigned **Proposal** referencing these terms must identify:
+- The cosigned **Proposal** referencing these terms must identify:
 
-    1.  the _Developer_
+  - the _Developer_
 
-    2.  whether the _Developer_ is an individual or a company
+  - whether the _Developer_ is an individual or a company
 
-    3.  the _Client_
+  - the _Client_
 
-    4.  the **Fee** for this agreement
+  - the **Fee** for this agreement
 
-    5.  the number of **Purchased Hours** _Developer_ will make available to work under this agreement
+  - the number of **Purchased Hours** _Developer_ will make available to work under this agreement
 
-    6.  the **Deadline** on which this agreement, and any _Unused Hours_, will expire
+  - the **Deadline** on which this agreement, and any _Unused Hours_, will expire
 
-2.  The _Proposal_ may identify:
+- The _Proposal_ may identify:
 
-    1.  the **Payment Method**, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
+  - the **Payment Method**, which by default is bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, if possible, and otherwise a common electronic payment system, such as PayPal, Stripe, or Square Cash
 
-    2.  the **Payment Currency**, which by default is United States Dollars
+  - the **Payment Currency**, which by default is United States Dollars
 
-    3.  a **Work Pace** of _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
+  - a **Work Pace** of _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
 
-    4.  the **Scope**, which by default is open software projects that Developer has contributed to
+  - the **Scope**, which by default is open software projects that Developer has contributed to
 
-    5.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
+  - **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
 
-    6.  **Working Hours**, which by default are 1000 to 1800 in the time zone of _Developer's Address_
+  - **Working Hours**, which by default are 1000 to 1800 in the time zone of _Developer's Address_
 
-## <a id="Client's_Obligations"></a>Client's Obligations
+# Client's Obligations
 
-### <a id="Pay_the_Fee"></a>Pay the Fee
+## Pay the Fee
 
 _Client_ agrees to pay the entire _Fee_ within fifteen calendar days of entering this agreement.
 
-### <a id="Cover_Extraordinary_Developer_Expenses"></a>Cover Extraordinary Developer Expenses
+## Cover Extraordinary Developer Expenses
 
 If _Client_ assigns _Developer_ work that requires extraordinary equipment, licenses, or services, then _Client_ agrees to pay the costs for _Developer_ directly. For example, _Client_ agrees to pay the costs of proprietary software licenses, testing hardware, and specific online services that _Client_ specifically requires _Developer_ to use. If _Client_ requires _Developer_ to use and return specific equipment, _Client_ agrees to pay the costs of packaging and shipping, both ways. If _Client_ cannot pay a cost directly, _Client_ agrees to advance _Developer_ the cost. See [Cover Basic Expenses](#Cover_Basic_Expenses) for _Developer_'s obligation to pay other expenses.
 
-### <a id="Use_the_Agreed_Payment_Method"></a>Use the Agreed Payment Method
+## Use the Agreed Payment Method
 
 _Client_ agrees to make all payments under this agreement via the _Payment Method_.
 
-### <a id="Cover_Payment_Method_Costs"></a>Cover Payment Method Costs
+## Cover Payment Method Costs
 
 _Client_ agrees to increase the amount of each payment to _Developer_ so that _Developer_ receives the full amount owed, taking into account any costs of receiving payment via the _Payment Method_.
 
-### <a id="Pay_in_the_Agreed_Currency"></a>Pay in the Agreed Currency
+## Pay in the Agreed Currency
 
 _Client_ agrees to make all payments under this agreement in the _Payment Currency_.
 
-### <a id="Pay_Taxes_on_the_Fee"></a>Pay Taxes on the Fee
+## Pay Taxes on the Fee
 
 _Client_ agrees to pay all tax on the _Fee_, except tax _Developer_ owes on income.
 
-### <a id="Technical_Representative"></a>Technical Representative
+## Technical Representative
 
 _Client_ agrees to appoint a **Technical Representative** by e-mailing _Developer_ their name, title, and e-mail address, and to appoint a replacement whenever the current _Technical Representative_ leaves or becomes unavailable. If _Client_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
 
-### <a id="Client's_Continuing_Obligations"></a>Client's Continuing Obligations
+## Client's Continuing Obligations
 
 The following _Client_ obligations continue after this agreement ends: [Pay the Fee](#Pay_the_Fee), [Cover Extraordinary Developer Expenses](#Cover_Extraordinary_Developer_Expenses), [Use the Agreed Payment Method](#Use_the_Agreed_Payment_Method), [Cover Payment Method Costs](#Cover_Payment_Method_Costs), [Pay in the Agreed Currency](#Pay_in_the_Agreed_Currency), [Pay Taxes on the Fee](#Pay_Taxes_on_the_Fee)
 
-## <a id="Developer's_Obligations"></a>Developer's Obligations
+# Developer's Obligations
 
-### <a id="Do_Assigned_Work"></a>Do Assigned Work
+## Do Assigned Work
 
 _Developer_ agrees to do software development work that _Client_ assigns. _Developer_ agrees to do work only on _Working Days_, during _Working Hours_. In order to assign work:
 
-#### <a id="Paid_the_Fee"></a>Paid the Fee
+### Paid the Fee
 
 _Client_ must have paid the _Fee_. _Developer_ does not agree to do any work before the _Fee_ is paid.
 
-#### <a id="Work_Within_Scope"></a>Work Within Scope
+### Work Within Scope
 
 The work must be in _Scope_. _Developer_ does not agree to do any work out of _Scope_.
 
-#### <a id="Clear_Instructions"></a>Clear Instructions
+### Clear Instructions
 
 The _Technical Representative_ must e-mail the _Developer_ written instructions for the work, and respond to reasonable _Developer_ requests for clarification.
 
-#### <a id="Time_Left"></a>Time Left
+### Time Left
 
 The assignment must be made clear while there is still enough _Time Left Before the Deadline_ to do the work.
 
-#### <a id="Hours_Left"></a>Hours Left
+### Hours Left
 
 The assignment must be made clear while there are still enough _Unused Hours_ to do the work.
 
-#### <a id="Prior_Assignments_Done"></a>Prior Assignments Done
+### Prior Assignments Done
 
 Any work previously assigned work must have been completed or canceled by the _Technical Representative_ by e-mail to _Developer_ before any more work can be assigned.
 
-### <a id="No_Piling_On"></a>No Piling On
+## No Piling On
 
 The purpose of [Clear Instructions](#Clear_Instructions), [Time Left](#Time_Left), [Hours Left](#Hours_Left), and [Prior Assignments Done](#Prior_Assignments_Done) is to prevent _Client_ from piling on new work shortly before the _Deadline_.
 
-### <a id="Cover_Basic_Expenses"></a>Cover Basic Expenses
+## Cover Basic Expenses
 
 _Developer_ agrees to pay for all equipment, licenses, and services needed to do open software development in _Scope_, generally. For example, _Developer_ agrees to provide their own computer, operating system, editor software, and Internet access. See [Cover Extraordinary Developer Expenses](#Cover_Extraordinary_Developer_Expenses) for _Client_'s obligation to pay other expenses.
 
-### <a id="Make_Up_Missed_Work"></a>Make Up Missed Work
+## Make Up Missed Work
 
 If _Developer_ is unable do work with remaining _Purchased Hours_ before the _Deadline_ because _Developer_ does not work on a _Working Day_ due to medical reasons or personal emergency, _Developer_ agrees to do that work after the _Deadline_.
 
-### <a id="Report_Unused_Hours"></a>Report Unused Hours
+## Report Unused Hours
 
 _Developer_ agrees to e-mail the _Technical Representative_ the number of _Unused Hours_ on request, and to e-mail the _Technical Representative_ once all _Purchased Hours_ have been worked.
 
-### <a id="Track_Time"></a>Track Time
+## Track Time
 
 _Developer_ agrees to record all time spent on work under this agreement in fairly rounded, quarter-hour increments.
 
-### <a id="Return_Loaned_Equipment"></a>Return Loaned Equipment
+## Return Loaned Equipment
 
 Once this agreement ends, _Developer_ agrees to promptly return any equipment the _Client_ loaned for work under this agreement.
 
-### <a id="Developer's_Continuing_Obligations"></a>Developer's Continuing Obligations
+## Developer's Continuing Obligations
 
 The following _Developer_ obligations continue after this agreement ends: [Cover Basic Expenses](#Cover_Basic_Expenses), [Make Up Missed Work](#Make_Up_Missed_Work), [Track Time](#Track_Time), [Return Loaned Equipment](#Return_Loaned_Equipment)
 
-## <a id="Term"></a>Term
+# Term
 
 This agreement starts when _Developer_ receives full payment of the _Fee_, and continues until the _Deadline_.
 
-## <a id="Intellectual_Property"></a>Intellectual Property
+# Intellectual Property
 
-### <a id="No_Assignment"></a>No Assignment
+## No Assignment
 
 This agreement does not assign any _Intellectual Property Right_, and no work under this agreement is "work made for hire" under copyright or other law.
 
-### <a id="Public_Licenses"></a>Public Licenses
+## Public Licenses
 
 _Developer_ licenses work that they create under this agreement to the public at large, including _Client_. The license terms for each separately licensable work are as follows:
 
-#### <a id="Blue_Oak_By_Default"></a>Blue Oak By Default
+### Blue Oak By Default
 
 By default, the terms are the latest version of The Blue Oak Model License on blueoakcouncil.org.
 
-#### <a id="Copyleft_When_Required"></a>Copyleft When Required
+### Copyleft When Required
 
 If a _Public License_, such as a copyleft license, require the work be licensed under specific terms, the terms are the terms required. This rule does not apply when _Client_ is the only one granting that _Public License_.
 
-#### <a id="Match_Existing_Licenses"></a>Match Existing Licenses
+### Match Existing Licenses
 
 If the work is made up of changes or additions to existing software made available under a _Public License_, the terms are those of that _Public License_. This rule does not apply when _Client_ is the only one granting that _Public License_, and the _Public License_ is a copyleft license.
 
-### <a id="Standard_Public_Licenses"></a>Standard Public Licenses
+## Standard Public Licenses
 
 Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Client_'s agreement. The purpose of this rule is to allow _Developer_ and _Client_ to rely on guidance about _Public License_ terms.
 
-### <a id="Enforcement_of_Public_Licenses"></a>Enforcement of Public Licenses
+## Enforcement of Public Licenses
 
 Others who are not parties to this agreement may enforce [Public Licenses](#Public_Licenses).
 
-### <a id="Warranty"></a>Warranty
+## Warranty
 
 _Developer_ guarantees that they will have all the rights needed to license work they create and use to write software under this agreement. _Client_ agrees that _Developer_ may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.
 
-## <a id="Liability"></a>Liability
+# Liability
 
-### <a id="Only_Express_Warranties"></a>Only Express Warranties
+## Only Express Warranties
 
 With the exception of _Developer_'s obligations in [Developer's Obligations](#Developer's_Obligations), _Developer_ provides all work under this agreement as is, without any warranty.
 
-### <a id="Damages_Limit"></a>Damages Limit
+## Damages Limit
 
 Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), _Developer_'s total liability for breach of this agreement will not exceed the _Fee_ that _Client_ paid _Developer_ under this agreement. This limit applies even if _Developer_ knows that _Client_ may suffer damages, and even if _Client_ never paid the _Fee_.
 
-### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
+## Damages Limit Exceptions
 
 [Damages Limit](#Damages_Limit) does not limit damages for breach of _Client_'s payment obligations.
 
-## <a id="General_Contract_Terms"></a>General Contract Terms
+# General Contract Terms
 
-### <a id="Governing_Law"></a>Governing Law
+## Governing Law
 
 The law of the jurisdiction of _Developer's Address_ will govern this agreement.
 
-### <a id="No_CISG"></a>No CISG
+## No CISG
 
 The United Nations Convention on Contracts for the International Sale of Goods will not apply to this agreement.
 
-### <a id="No_UCITA"></a>No UCITA
+## No UCITA
 
 As far as the law allows, the Uniform Computer Information Transactions Act will not apply to this agreement.
 
-### <a id="Whole_Agreement"></a>Whole Agreement
+## Whole Agreement
 
 Both sides intend the _Proposal_ and these terms as the final, complete, and only expression of their terms about _Developer_ open software development work. However, these terms do not replace or preclude any nondisclosure agreement.
 
-### <a id="Enforcement"></a>Enforcement
+## Enforcement
 
 With the sole exception of [Enforcement of Public Licenses](#Enforcement_of_Public_Licenses), only _Developer_ and _Client_ may enforce this agreement.
 
-### <a id="Free_to_Discuss_Publicly"></a>Free to Discuss Publicly
+## Free to Discuss Publicly
 
 Unless _Developer_ and _Client_ have or enter into a nondisclosure agreement, each side is free to disclose and discuss both sides' performance under this agreement. The purpose of this rule is to allow _Developer_ and _Client_ to build reputations for fair dealing under these terms.
 
-### <a id="Assignment"></a>Assignment
+## Assignment
 
 Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management. Otherwise, each side needs the other side's prior, written permission to assign any right or license under this agreement. Attempts to assign against the terms of this agreement will have no legal effect.
 
-### <a id="Lawsuits"></a>Lawsuits
+## Lawsuits
 
-#### <a id="Lawsuit"></a>Lawsuit
+### Lawsuit
 
 **Lawsuit** means a lawsuit brought by one side against the other, related to this agreement.
 
-#### <a id="Courts"></a>Courts
+### Courts
 
 **Developer's Local Courts** means the national and any national-subdivision courts with jurisdiction at _Developer's Address_.
 
-#### <a id="Forum"></a>Forum
+### Forum
 
 Both sides agree to bring any _Lawsuit_ in _Developer's Local Courts_.
 
-#### <a id="Inconvenient_Forum_Waiver"></a>Inconvenient Forum Waiver
+### Inconvenient Forum Waiver
 
 Both sides waive any objection to hearing any _Lawsuit_ in _Developer's Local Courts_.
 
-#### <a id="Exclusive_Jurisdiction"></a>Exclusive Jurisdiction
+### Exclusive Jurisdiction
 
 Both sides consent to the exclusive jurisdiction of _Developer's Local Courts_. Both sides may enforce judgments from _Developer's Local Courts_ in other jurisdictions.
 
-## <a id="Definitions"></a>Definitions
+# Definitions
 
-1.  **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
+- **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
 
-2.  **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
+- **Developer's Address** means the address _Developer_ gives along with their signature to the _Proposal_.
 
-3.  **Full Time** means eight hours per _Working Day_.
+- **Full Time** means eight hours per _Working Day_.
 
-4.  **Half Time** means four hours per _Working Day_.
+- **Half Time** means four hours per _Working Day_.
 
-5.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+- **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-6.  **Part Time** means two hours per _Working Day_.
+- **Part Time** means two hours per _Working Day_.
 
-7.  **Public License** means a license to the public at large, or to everyone who receives a copy of the licensed work.
+- **Public License** means a license to the public at large, or to everyone who receives a copy of the licensed work.
 
-8.  **Remaining Working Days** means the number of _Working Days_ left before the _Deadline_. For example, if seven calendar days remain before the _Deadline_, five of which are _Working Days_, there are five _Remaining Working Days_.
+- **Remaining Working Days** means the number of _Working Days_ left before the _Deadline_. For example, if seven calendar days remain before the _Deadline_, five of which are _Working Days_, there are five _Remaining Working Days_.
 
-9.  **Time Left Before the Deadline** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left Before the Deadline_.
+- **Time Left Before the Deadline** means the number of _Remaining Working Days_ multiplied by the _Work Pace_. For example, if there are five _Remaining Working Days_ and the _Work Pace_ is _Half Time_, then there are twenty _Working Hours_ of _Time Left Before the Deadline_.
 
-10.  **Unused Hours** means the _Purchased Hours_ minus the time _Developer_ has worked under this agreement to date.
+- **Unused Hours** means the _Purchased Hours_ minus the time _Developer_ has worked under this agreement to date.

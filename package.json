@@ -2,23 +2,12 @@
   "private": true,
   "devDependencies": {
     "commonform-cli": "^0.31.0",
-    "husky": "^1.3.1",
+    "commonmark-to-commonform": "^1.0.3",
     "npm-run-all": "^4.1.5"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-p build:*:markdown && git add terms.md proposal.md"
-    }
-  },
   "scripts": {
-    "test": "commonform lint terms.cform",
-    "build": "run-p build:** && npm run pdfs",
-    "build:terms:markdown": "commonform render -f markdown --title 'Open Development Time Block Terms' --blanks blanks.json --signatures no-signatures.json terms.cform > terms.md",
-    "build:terms:html": "commonform render -f html5 --title 'Open Development Time Block Terms' --blanks blanks.json --signatures no-signatures.json --ordered-lists terms.cform > terms.html",
-    "build:terms:docx": "commonform render -f docx --title 'Open Development Time Block Terms' --blanks blanks.json --signatures no-signatures.json --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
-    "build:proposal:markdown": "commonform render -f markdown --title 'Open Development Time Block Proposal' --blanks blanks.json --signatures signatures.json proposal.cform > proposal.md",
-    "build:proposal:html": "commonform render -f html5 --title 'Open Development Time Block Proposal' --blanks blanks.json --signatures signatures.json --ordered-lists proposal.cform > proposal.html",
-    "build:proposal:docx": "commonform render -f docx --title 'Open Development Time Block Proposal' --blanks blanks.json --signatures signatures.json --number outline --left-align-title --indent-margins --styles styles.json proposal.cform > proposal.docx",
-    "pdfs": "unoconv terms.docx proposal.docx"
-  }
+    "pretest": "make terms.json",
+    "test": "commonform lint terms.json"
+  },
+  "dependencies": {}
 }
