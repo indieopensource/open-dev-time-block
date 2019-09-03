@@ -26,7 +26,7 @@
 
     3.  a **Work Pace** of _Full Time_, _Half Time_, or _Part Time_, which by default is _Part Time_
 
-    4.  the **Scope**, which by default is open software projects that Developer has contributed to
+    4.  the **Scope**, which by default is open software projects that _Developer_ has contributed to
 
     5.  **Working Days** \(singular: **Working Day**\), which by default are days other than Saturdays, Sundays, and days when commercial banks in the capital of the country of _Developer's Address_ typically stay closed
 
