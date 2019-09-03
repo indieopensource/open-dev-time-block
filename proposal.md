@@ -9,3 +9,5 @@
 3.  _Client_ is buying `Hours` **Purchased Hours**.
 
 4.  The **Deadline** is `Deadline`.
+
+5.  Optional: The **Governing Law** is `Governing Law`.

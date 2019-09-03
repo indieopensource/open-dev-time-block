@@ -32,6 +32,8 @@
 
     6.  **Working Hours**, which by default are 1000 to 1800 in the time zone of _Developer's Address_
 
+    7.  **Governing Law** for this agreement
+
 ## Client's Obligations
 
 ### Pay the Fee
@@ -180,7 +182,7 @@ Subject to [Damages Limit Exceptions](#damages-limit-exceptions), _Developer_'s 
 
 ### Governing Law
 
-The law of the jurisdiction of _Developer's Address_ will govern this agreement.
+The **Governing Law** will govern this agreement.  If the _Proposal_ does not specify **Governing Law**, it is the law of the jurisdiction of _Developer's Address_.
 
 ### No CISG
 
